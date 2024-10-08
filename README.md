@@ -27,7 +27,7 @@ With hands-on expertise in **Python, R, and SQL**, and proficiency in tools like
 ---
 
 ### Certifications  
-- NVIDIA's Deep Learning Fundamentals  [View Certi](https://courses.nvidia.com/certificates/289f5a0ba3f2451bb6640876444c0140/)
+![NVIDIA's Deep Learning Fundamentals](https://courses.nvidia.com/certificates/289f5a0ba3f2451bb6640876444c0140/)
 - NVIDIA's Applications of AI for Anomaly Detection    [View Certi](https://courses.nvidia.com/certificates/0f891034dbd1482480f7edfec0ea07ac/)
 - NVIDIA's Applications of AI for Predictive Maintenance    [View Certi](https://courses.nvidia.com/certificates/bac5f95f2a644b1db3cb380acafcab16/)
 
