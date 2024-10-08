@@ -1,5 +1,5 @@
 # Ratnakshi Gore  
-**Master of Science in Data Science**  
+**Master of Science in Data Science**                                             
 **University of Colorado Boulder**  
 
 ### Contact Information  
@@ -16,7 +16,7 @@ With hands-on expertise in **Python, R, and SQL**, and proficiency in tools like
 
 ---
 
-## Skills  
+### Skills  
 - **Languages**: Python, R, SQL  
 - **Tools**: Tableau, Power BI, Git  
 - **Database**: MySQL, PostgreSQL  
@@ -26,14 +26,14 @@ With hands-on expertise in **Python, R, and SQL**, and proficiency in tools like
 
 ---
 
-## Certifications  
-- NVIDIA's Deep Learning Fundamentals  
-- NVIDIA's Applications of AI for Anomaly Detection  
-- NVIDIA's Applications of AI for Predictive Maintenance  
+### Certifications  
+- NVIDIA's Deep Learning Fundamentals  [View Certi](#)
+- NVIDIA's Applications of AI for Anomaly Detection    [View Certi](#)
+- NVIDIA's Applications of AI for Predictive Maintenance    [View Certi](#)
 
 ---
 
-## Projects
+### Projects
 
 ### 1. **Human Fall Detector for Elderly People** (2023-2024)  
 A deep learning system that detects falls using sensor and camera data. Achieved 85% accuracy, sending real-time alerts to caregivers.  
@@ -58,7 +58,7 @@ Designed a system using **Arduino** and **Raspberry Pi** to track wild animalsâ€
 
 ---
 
-## Experience  
+### Experience  
 **Data Analyst Intern | Techtastic Technologies, Mumbai**  
 - Utilized advanced SQL and Tableau for inventory analysis and supply chain optimization, reducing operational costs through regression analysis.
 
