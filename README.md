@@ -1,4 +1,3 @@
-# Portfolio
 
 ### Education
 Master of Science in Data Science 
