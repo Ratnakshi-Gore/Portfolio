@@ -2,14 +2,14 @@
 **Master of Science in Data Science**  
 **University of Colorado Boulder**  
 
-## Contact Information  
+### Contact Information  
 - **Email**: [ratnakshisgore@gmail.com](mailto:ratnakshisgore@gmail.com)  
 - **LinkedIn**: [linkedin.com/in/ratnakshi-gore-122943221](https://linkedin.com/in/ratnakshi-gore-122943221)  
 - **Phone**: +1 (720) 938-6406  
 
 ---
 
-## About Me  
+### About Me  
 I am a passionate Data Scientist with a strong foundation in Machine Learning, Data Analytics, and Deep Learning. My experience spans a variety of projects ranging from health-tech innovations to advanced geospatial analysis, all aimed at providing scalable and efficient solutions.
 
 With hands-on expertise in **Python, R, and SQL**, and proficiency in tools like **Tableau, Power BI, and Git**, I continuously strive to leverage my skills for impactful data-driven insights. I’m actively seeking opportunities to apply my knowledge in real-world projects that push the boundaries of data science.
